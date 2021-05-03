@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://littlepawd.github.io/csb-mnmv4/static/css/main.a83fa94d.chunk.css",
+    "main.js": "https://littlepawd.github.io/csb-mnmv4/static/js/main.ac7652a3.chunk.js",
+    "main.js.map": "https://littlepawd.github.io/csb-mnmv4/static/js/main.ac7652a3.chunk.js.map",
+    "runtime-main.js": "https://littlepawd.github.io/csb-mnmv4/static/js/runtime-main.cd2885ce.js",
+    "runtime-main.js.map": "https://littlepawd.github.io/csb-mnmv4/static/js/runtime-main.cd2885ce.js.map",
+    "static/js/2.790c517c.chunk.js": "https://littlepawd.github.io/csb-mnmv4/static/js/2.790c517c.chunk.js",
+    "static/js/2.790c517c.chunk.js.map": "https://littlepawd.github.io/csb-mnmv4/static/js/2.790c517c.chunk.js.map",
+    "index.html": "https://littlepawd.github.io/csb-mnmv4/index.html",
+    "static/css/main.a83fa94d.chunk.css.map": "https://littlepawd.github.io/csb-mnmv4/static/css/main.a83fa94d.chunk.css.map",
+    "static/js/2.790c517c.chunk.js.LICENSE.txt": "https://littlepawd.github.io/csb-mnmv4/static/js/2.790c517c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd2885ce.js",
+    "static/js/2.790c517c.chunk.js",
+    "static/css/main.a83fa94d.chunk.css",
+    "static/js/main.ac7652a3.chunk.js"
+  ]
+}
